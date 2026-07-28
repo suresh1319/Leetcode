@@ -125,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/suresh1319/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Database
+|  |
+| ------- |
+| [1084-sales-analysis-iii](https://github.com/suresh1319/Leetcode/tree/master/1084-sales-analysis-iii) |
 <!---LeetCode Topics End-->
