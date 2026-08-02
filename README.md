@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/suresh1319/Leetcode/tree/master/0877-stone-game) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/suresh1319/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/suresh1319/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/suresh1319/Leetcode/tree/master/1260-shift-2d-grid) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/suresh1319/Leetcode/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/suresh1319/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/suresh1319/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/suresh1319/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/suresh1319/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0877-stone-game](https://github.com/suresh1319/Leetcode/tree/master/0877-stone-game) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/suresh1319/Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/suresh1319/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Graph Theory
@@ -162,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/suresh1319/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/suresh1319/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
