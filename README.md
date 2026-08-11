@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/suresh1319/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [0728-self-dividing-numbers](https://github.com/suresh1319/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/suresh1319/Leetcode/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/suresh1319/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/suresh1319/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
