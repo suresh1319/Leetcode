@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/suresh1319/Leetcode/tree/master/0258-add-digits) |
 | [1260-shift-2d-grid](https://github.com/suresh1319/Leetcode/tree/master/1260-shift-2d-grid) |
 ## Tree
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/suresh1319/Leetcode/tree/master/0258-add-digits) |
 | [0371-sum-of-two-integers](https://github.com/suresh1319/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0728-self-dividing-numbers](https://github.com/suresh1319/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/suresh1319/Leetcode/tree/master/0877-stone-game) |
@@ -191,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/suresh1319/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/suresh1319/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
