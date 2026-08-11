@@ -109,12 +109,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/suresh1319/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0877-stone-game](https://github.com/suresh1319/Leetcode/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/suresh1319/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/suresh1319/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/suresh1319/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/suresh1319/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/suresh1319/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/suresh1319/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/suresh1319/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/suresh1319/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Dynamic Programming
