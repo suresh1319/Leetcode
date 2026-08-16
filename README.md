@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/suresh1319/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0443-string-compression](https://github.com/suresh1319/Leetcode/tree/master/0443-string-compression) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/suresh1319/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/suresh1319/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -230,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/suresh1319/Leetcode/tree/master/2029-stone-game-ix) |
+## Linked List
+|  |
+| ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/suresh1319/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 <!---LeetCode Topics End-->
