@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/suresh1319/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/suresh1319/Leetcode/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/suresh1319/Leetcode/tree/master/1376-time-needed-to-inform-all-employees) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/suresh1319/Leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1631-path-with-minimum-effort](https://github.com/suresh1319/Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Depth-First Search
 |  |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/suresh1319/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/suresh1319/Leetcode/tree/master/0841-keys-and-rooms) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/suresh1319/Leetcode/tree/master/1376-time-needed-to-inform-all-employees) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/suresh1319/Leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1631-path-with-minimum-effort](https://github.com/suresh1319/Leetcode/tree/master/1631-path-with-minimum-effort) |
 ## Union-Find
 |  |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/suresh1319/Leetcode/tree/master/0841-keys-and-rooms) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/suresh1319/Leetcode/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/suresh1319/Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/suresh1319/Leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1584-min-cost-to-connect-all-points](https://github.com/suresh1319/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/suresh1319/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Shortest Path
