@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/suresh1319/Leetcode/tree/master/0443-string-compression) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/suresh1319/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/suresh1319/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1927-sum-game](https://github.com/suresh1319/Leetcode/tree/master/1927-sum-game) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/suresh1319/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/suresh1319/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/suresh1319/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/suresh1319/Leetcode/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/suresh1319/Leetcode/tree/master/0179-largest-number) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/suresh1319/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1927-sum-game](https://github.com/suresh1319/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/suresh1319/Leetcode/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/suresh1319/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Monotonic Stack
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/suresh1319/Leetcode/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/suresh1319/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/suresh1319/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1927-sum-game](https://github.com/suresh1319/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/suresh1319/Leetcode/tree/master/2029-stone-game-ix) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/suresh1319/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/suresh1319/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/suresh1319/Leetcode/tree/master/0877-stone-game) |
+| [1927-sum-game](https://github.com/suresh1319/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/suresh1319/Leetcode/tree/master/2029-stone-game-ix) |
 ## Prefix Sum
 |  |
