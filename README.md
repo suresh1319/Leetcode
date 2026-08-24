@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/suresh1319/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/suresh1319/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0877-stone-game](https://github.com/suresh1319/Leetcode/tree/master/0877-stone-game) |
+| [0934-shortest-bridge](https://github.com/suresh1319/Leetcode/tree/master/0934-shortest-bridge) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/suresh1319/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/suresh1319/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/suresh1319/Leetcode/tree/master/1260-shift-2d-grid) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/suresh1319/Leetcode/tree/master/0130-surrounded-regions) |
+| [0934-shortest-bridge](https://github.com/suresh1319/Leetcode/tree/master/0934-shortest-bridge) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/suresh1319/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/suresh1319/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/suresh1319/Leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/suresh1319/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/suresh1319/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/suresh1319/Leetcode/tree/master/0841-keys-and-rooms) |
+| [0934-shortest-bridge](https://github.com/suresh1319/Leetcode/tree/master/0934-shortest-bridge) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/suresh1319/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/suresh1319/Leetcode/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/suresh1319/Leetcode/tree/master/1376-time-needed-to-inform-all-employees) |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/suresh1319/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/suresh1319/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/suresh1319/Leetcode/tree/master/0841-keys-and-rooms) |
+| [0934-shortest-bridge](https://github.com/suresh1319/Leetcode/tree/master/0934-shortest-bridge) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/suresh1319/Leetcode/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/suresh1319/Leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1631-path-with-minimum-effort](https://github.com/suresh1319/Leetcode/tree/master/1631-path-with-minimum-effort) |
