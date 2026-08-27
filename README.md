@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-shortest-bridge](https://github.com/suresh1319/Leetcode/tree/master/0934-shortest-bridge) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/suresh1319/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/suresh1319/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1207-unique-number-of-occurrences](https://github.com/suresh1319/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/suresh1319/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1306-jump-game-iii](https://github.com/suresh1319/Leetcode/tree/master/1306-jump-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/suresh1319/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/suresh1319/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/suresh1319/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1207-unique-number-of-occurrences](https://github.com/suresh1319/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/suresh1319/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/suresh1319/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/suresh1319/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
