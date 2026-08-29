@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/suresh1319/Leetcode/tree/master/0020-valid-parentheses) |
 | [0179-largest-number](https://github.com/suresh1319/Leetcode/tree/master/0179-largest-number) |
 | [0443-string-compression](https://github.com/suresh1319/Leetcode/tree/master/0443-string-compression) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/suresh1319/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/suresh1319/Leetcode/tree/master/0020-valid-parentheses) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/suresh1319/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/suresh1319/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2390-removing-stars-from-a-string](https://github.com/suresh1319/Leetcode/tree/master/2390-removing-stars-from-a-string) |
@@ -291,4 +293,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/suresh1319/Leetcode/tree/master/0785-is-graph-bipartite) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/suresh1319/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
