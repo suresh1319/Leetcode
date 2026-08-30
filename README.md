@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/suresh1319/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/suresh1319/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/suresh1319/Leetcode/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/suresh1319/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/suresh1319/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Monotonic Stack
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/suresh1319/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/suresh1319/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2029-stone-game-ix](https://github.com/suresh1319/Leetcode/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/suresh1319/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/suresh1319/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/suresh1319/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/suresh1319/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
