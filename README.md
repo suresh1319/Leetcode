@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/suresh1319/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/suresh1319/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/suresh1319/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/suresh1319/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/suresh1319/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/suresh1319/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2352-equal-row-and-column-pairs](https://github.com/suresh1319/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/suresh1319/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Simulation
 |  |
 | ------- |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1376-time-needed-to-inform-all-employees](https://github.com/suresh1319/Leetcode/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/suresh1319/Leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1631-path-with-minimum-effort](https://github.com/suresh1319/Leetcode/tree/master/1631-path-with-minimum-effort) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/suresh1319/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/suresh1319/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/suresh1319/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/suresh1319/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/suresh1319/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -244,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/suresh1319/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/suresh1319/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/suresh1319/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/suresh1319/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Two Pointers
 |  |
 | ------- |
