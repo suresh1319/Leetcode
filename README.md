@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/suresh1319/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/suresh1319/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/suresh1319/Leetcode/tree/master/1376-time-needed-to-inform-all-employees) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/suresh1319/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/suresh1319/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/suresh1319/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/suresh1319/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/suresh1319/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/suresh1319/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/suresh1319/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-shortest-path-with-alternating-colors](https://github.com/suresh1319/Leetcode/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1306-jump-game-iii](https://github.com/suresh1319/Leetcode/tree/master/1306-jump-game-iii) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/suresh1319/Leetcode/tree/master/1376-time-needed-to-inform-all-employees) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/suresh1319/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/suresh1319/Leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1631-path-with-minimum-effort](https://github.com/suresh1319/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/suresh1319/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-shortest-bridge](https://github.com/suresh1319/Leetcode/tree/master/0934-shortest-bridge) |
 | [1306-jump-game-iii](https://github.com/suresh1319/Leetcode/tree/master/1306-jump-game-iii) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/suresh1319/Leetcode/tree/master/1376-time-needed-to-inform-all-employees) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/suresh1319/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/suresh1319/Leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1631-path-with-minimum-effort](https://github.com/suresh1319/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/suresh1319/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
