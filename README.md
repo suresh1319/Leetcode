@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/suresh1319/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/suresh1319/Leetcode/tree/master/0011-container-with-most-water) |
 | [0130-surrounded-regions](https://github.com/suresh1319/Leetcode/tree/master/0130-surrounded-regions) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/suresh1319/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/suresh1319/Leetcode/tree/master/0001-two-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/suresh1319/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/suresh1319/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1207-unique-number-of-occurrences](https://github.com/suresh1319/Leetcode/tree/master/1207-unique-number-of-occurrences) |
