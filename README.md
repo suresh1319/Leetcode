@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/suresh1319/Leetcode/tree/master/0258-add-digits) |
 | [0371-sum-of-two-integers](https://github.com/suresh1319/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [0507-perfect-number](https://github.com/suresh1319/Leetcode/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/suresh1319/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/suresh1319/Leetcode/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/suresh1319/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
