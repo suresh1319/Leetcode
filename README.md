@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/suresh1319/Leetcode/tree/master/0130-surrounded-regions) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/suresh1319/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0179-largest-number](https://github.com/suresh1319/Leetcode/tree/master/0179-largest-number) |
+| [0283-move-zeroes](https://github.com/suresh1319/Leetcode/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/suresh1319/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/suresh1319/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/suresh1319/Leetcode/tree/master/0724-find-pivot-index) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/suresh1319/Leetcode/tree/master/0011-container-with-most-water) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/suresh1319/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0283-move-zeroes](https://github.com/suresh1319/Leetcode/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/suresh1319/Leetcode/tree/master/0443-string-compression) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/suresh1319/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/suresh1319/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
