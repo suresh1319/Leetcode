@@ -1,14 +1,12 @@
 class Solution:
     def maxDepth(self, s: str) -> int:
-        maxDepth = 0
+        cnt = 0
+        maxAns = float('-inf')
         n = len(s)
-        st = []
         for i in range(n):
+            if s[i] == ')':
+                cnt -= 1
             if s[i] == '(':
-                st.append("(")
-                maxDepth = max(maxDepth,len(st))
-            elif s[i] == ")":
-                st.pop()
-            else:
-                continue
-        return maxDepth
+                cnt += 1
+            maxAns = max(maxAns,cnt)
+        return maxAns
