@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/suresh1319/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/suresh1319/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0394-decode-string](https://github.com/suresh1319/Leetcode/tree/master/0394-decode-string) |
+| [0503-next-greater-element-ii](https://github.com/suresh1319/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/suresh1319/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/suresh1319/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/suresh1319/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/suresh1319/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/suresh1319/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/suresh1319/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Array
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/suresh1319/Leetcode/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/suresh1319/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/suresh1319/Leetcode/tree/master/0283-move-zeroes) |
+| [0503-next-greater-element-ii](https://github.com/suresh1319/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/suresh1319/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/suresh1319/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/suresh1319/Leetcode/tree/master/0724-find-pivot-index) |
