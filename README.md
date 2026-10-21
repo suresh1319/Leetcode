@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/suresh1319/Leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/suresh1319/Leetcode/tree/master/0577-employee-bonus) |
 | [1084-sales-analysis-iii](https://github.com/suresh1319/Leetcode/tree/master/1084-sales-analysis-iii) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/suresh1319/Leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
